@@ -4,8 +4,6 @@
   "description": "",
   "main": "postcss.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "",
     "tailwind": "tailwindcss --postcss -i ./app/assets/stylesheets/main.css -o ./build/app.css"
   },
   "keywords": [],
