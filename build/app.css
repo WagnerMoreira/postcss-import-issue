@@ -616,8 +616,6 @@ video {
   color: rgb(79 70 229 / var(--tw-text-opacity));
 }
 
-@import url("./other.css");
-
 .hover\:bg-gray-50:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(249 250 251 / var(--tw-bg-opacity));
